@@ -48,6 +48,9 @@ Colours used are NUST Zimbabwe's official brand colours:
 - Medium Blue: #0057A8
 - Gold Accent: #C8971B
 
+## Contributions
+- Improved documentation by Nothando
+
 ---
 
 *Built for Computational Modelling Course Group Project — NUST Faculty of Applied Science*
